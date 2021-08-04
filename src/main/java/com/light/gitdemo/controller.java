@@ -12,5 +12,7 @@ public class controller {
         System.out.println("version3");
         System.out.println("version4!");
         System.out.println("git push test1 !");
+        System.out.println("git push test2 !");
+
     }
 }
