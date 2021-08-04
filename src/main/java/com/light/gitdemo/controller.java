@@ -14,5 +14,6 @@ public class controller {
         System.out.println("git push test1 !");
         System.out.println("git push test2 !");
         System.out.println("git push test3 !");
+        System.out.println("git push test4 !");
     }
 }
